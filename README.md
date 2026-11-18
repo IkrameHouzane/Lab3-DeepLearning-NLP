@@ -129,5 +129,3 @@ Le fine-tuning a **adapté le modèle au style de notre dataset** (textes courts
 - **NLTK** (NLP arabe)
 - **Google Colab** (GPU T4)
 ---
-
-Ce projet est réalisé dans le cadre du Master MBD - Université Abdelmalek Essaadi.
